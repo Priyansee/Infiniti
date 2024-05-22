@@ -37,30 +37,14 @@ Infiniti is an innovative web application designed to revolutionize the digital 
 
 **Project Configuration:**
 
-1. Update database connection details in the appropriate configuration files (e.g., `application.properties`, `web.xml`).
-2. Configure SMTP settings for email notifications (if applicable).
+1. Update database connection details in the appropriate configuration files.
+2. Configure SMTP settings for email notifications.
 
 ## Running the Application
 
 1. Deploy the application to a web server such as Tomcat or Jetty. You can typically achieve this by copying the WAR file generated during the build process to the server's deployment directory.
 2. Start the web server.
-3. Access the application in your web browser using the appropriate URL (e.g., `http://localhost:8080/your-app-name`).
-
-## Project Structure
-
-(Provide a high-level overview of your project's directory structure in this section)
-
-## Contributing
-
-(If applicable, outline guidelines for contributing to your project on GitHub in this section)
-
-## License
-
-[Specify the license under which you are distributing your code. Popular choices include MIT, Apache-2.0, or a custom license.]
-
-## Disclaimer
-
-(If your project is for educational purposes only, include a disclaimer to avoid liability for commercial use.)
+3. Access the application in your web browser using the appropriate URL.
 
 ## Additional Notes
 
