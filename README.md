@@ -17,9 +17,7 @@ Infiniti is an innovative web application designed to revolutionize the digital 
     * **Admin:** Manage all data (art, artists, customers, orders).
 * **Secure Login:** Secure authentication system.
 * **Shopping Cart Functionality:** Allows customers to add and manage their desired purchases.
-* **Payment Gateway Integration:** (Optional) Integrate a payment gateway (e.g., Stripe, PayPal) for secure online transactions.
 * **Search and Filter:** Filter art by various criteria (e.g., category, price, artist).
-* **Order Tracking:** Customers can track the status of their orders.
 * **Email Notifications:** Send automated notifications for purchases, order updates, etc. (Optional)
 
 ## Installation
@@ -33,7 +31,7 @@ Infiniti is an innovative web application designed to revolutionize the digital 
 **Database Setup:**
 
 1. Create a MySQL database.
-2. Import the provided SQL script (if applicable) to set up the database schema.
+2. Import the provided SQL script to set up the database schema.
 
 **Project Configuration:**
 
