@@ -44,8 +44,6 @@ Infiniti is an innovative web application designed to revolutionize the digital 
 2. Start the web server.
 3. Access the application in your web browser using the appropriate URL.
 
-## Additional Notes
-
-* This README provides a general guide. You may need to adapt it based on your specific project setup.
-* Consider including screenshots or a short demo video to visually demonstrate the application's functionality (can be added outside of GitHub README).
-* Feel free to add more details about specific features, usage instructions, or troubleshooting steps.
+Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/infiniti.git
