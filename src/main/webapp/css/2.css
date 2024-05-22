@@ -1,0 +1,12 @@
+@font-face {
+    font-family:'Gilland';
+    font-style:'normal';
+    font-weight:'700';
+    src:local('Gilland'),
+    url(../fonts/Gilland-Bold.eot) format('eot'),
+    url(../images/Gilland-Bold.svg) format('svg'),
+    url(../fonts/Gilland-Bold.ttf) format('ttf'),
+    url(../fonts/Gilland-Bold.woff) format('woff'),
+    url(../fonts/Gilland-Bold.woff2) format('woff2'),
+    url(../fonts.html) format('');}
+    
